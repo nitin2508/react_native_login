@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_770d78e7456d625bc9ca662ba3c652466910c4f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_745ddfe731dcc20780e552f08df5dfbfa7f8cbd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_b1cc18c453b3bc1ee42836119401521a8b3dc86e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_087052c90dd4f842fa3b05807c7d02c17151351d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_d46a3dc193d668fbc6a5be071622434a0a96332a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_1f603fc8001db0b5f4599a38e2352a96422fdbf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_6a2eab65fdb971efb7d23457f993f249bfc4cb57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_62432cf0cf72c91cc9942b6f3b78f088a56ce725.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_0c7e6661507a62be5e9a2b498bb573422a0655fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_543d8807089742ccfd5802cf1e8ece87dc319f80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_0bedf25e942619c6c612b938df83b92e9df41a35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_59010bb009c71597bd8d4565a1720c63782a505d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_057fa73407aecdfd0832f130afe9ae9b0e2ac525.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_5d1b857945d0c5e4c0e8d085fde352938b8d8a1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_f750c5368e97e2891423cd875af00e2e83efb8c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_34cf76dce22b56573ed2980a34b67b31e4b60ecc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_8792433a6675f6719e8574501ecf57d07e978a9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_8ceb9ddd2712b859e31fe476076bb69672744a6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_98d035b81c8f305afcc663ecf723f38042756793.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_69db444b5c87f6cafec1414ea58111bf327f7115.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_1bfa37a69d65784c6e89d3cab0ede2e91f9c3465.jar" />
+    </item>
+
+</items>
