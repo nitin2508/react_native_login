@@ -2,5 +2,9 @@
     {
         "merged": "/home/gaurav/nitin/react-native/upwardly/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
         "source": "/home/gaurav/nitin/react-native/upwardly/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/gaurav/nitin/react-native/login/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/gaurav/nitin/react-native/login/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     }
 ]
